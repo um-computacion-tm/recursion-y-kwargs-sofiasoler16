@@ -1,0 +1,10 @@
+#How it works
+This is a function that allows receiving the first and last names of a person to check if they are in the database. Once found, it returns the ID of the
+
+location where the person is in the database. If there is not enough data provided and there are more than 1 person with the same name, it returns the 
+
+quantity of people with that name. If the person is not in the database, it returns 'no hay' (there isn't).
+
+##How to use it
+Once you clone de repository in your computer, you have to run the test using python3 base_de_datos/test_db.py
+
